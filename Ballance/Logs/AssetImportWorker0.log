@@ -1,0 +1,189 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'ru' Physical Memory: 24524 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+Z:/Downloads/GitRepos/123/Ballance/Ballance
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60253
+Successfully changed project path to: Z:/Downloads/GitRepos/123/Ballance/Ballance
+Z:/Downloads/GitRepos/123/Ballance/Ballance
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path Z:/Downloads/GitRepos/123/Ballance/Ballance/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.15003.1004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001674 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 21.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.375 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000439 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1135 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.1 MB.
+System memory in use after: 59.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1583.
+Total: 1.880400 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.570100 ms  DeleteObjects: 0.074000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Без имени-1 — копия.png
+  artifactKey: Guid(11f1b5ac2e19e284ab9c27a315dd1596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Без имени-1 — копия.png using Guid(11f1b5ac2e19e284ab9c27a315dd1596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7771a526ea69a2b40c3fa0e5b758d08b') in 0.082566 seconds
+  Import took 0.084590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/skrezhet-metalla.mp3
+  artifactKey: Guid(e696d7ae5dbb4d04e81a82ef6772f4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/skrezhet-metalla.mp3 using Guid(e696d7ae5dbb4d04e81a82ef6772f4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d144203fd84c14dc5a9c9c6cc5f38dd') in 0.063373 seconds
+  Import took 0.065218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Person — копия.png
+  artifactKey: Guid(f9e12c21a2a41694bb6557684b989a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Person — копия.png using Guid(f9e12c21a2a41694bb6557684b989a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c9eef0351e87b6abcb1cb387be2b0f') in 0.029042 seconds
+  Import took 0.030760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/динамика.mp3
+  artifactKey: Guid(5206ccdf57312904faa2041fc64d2493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/динамика.mp3 using Guid(5206ccdf57312904faa2041fc64d2493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c303b88e3710d004a3b1a1ab8113e1d7') in 0.014075 seconds
+  Import took 0.015715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/modelka.fbx
+  artifactKey: Guid(3f9a33ae0b4a69543a8d84b7cb488d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modelka.fbx using Guid(3f9a33ae0b4a69543a8d84b7cb488d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b8ceeca666bc989615e7317e05badb') in 0.182611 seconds
+  Import took 0.185019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/меню.mp3
+  artifactKey: Guid(af3b654fb665df9469fb2ceb4c0d2198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/меню.mp3 using Guid(af3b654fb665df9469fb2ceb4c0d2198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019c1a6a1b36b42dc372c321d00fd418') in 0.012133 seconds
+  Import took 0.014162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/e4c1fdca51422a9.mp3
+  artifactKey: Guid(ba43f2e50514e7843959947e8024e4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/e4c1fdca51422a9.mp3 using Guid(ba43f2e50514e7843959947e8024e4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf443be123e1428b3ef4885b0ca2e5f') in 0.010772 seconds
+  Import took 0.012735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/переживальня.mp3
+  artifactKey: Guid(c1163d906d633134d9974a3022b25b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/переживальня.mp3 using Guid(c1163d906d633134d9974a3022b25b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd59eb1f0e1e45480f861f4f69acb2f7') in 0.011096 seconds
+  Import took 0.013414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Person — копия — копия.png
+  artifactKey: Guid(e9824cb7051c4a44a8488163be9c5fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Person — копия — копия.png using Guid(e9824cb7051c4a44a8488163be9c5fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c7950c0023cb6891c20799669cc509') in 0.017760 seconds
+  Import took 0.019783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Person.png
+  artifactKey: Guid(47be01f0f8c49be48b7b1215b025e5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Person.png using Guid(47be01f0f8c49be48b7b1215b025e5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcae69a315004e06e89b171842f513c0') in 0.019071 seconds
+  Import took 0.020949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Person — копия — копия.png
+  artifactKey: Guid(e9824cb7051c4a44a8488163be9c5fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Person — копия — копия.png using Guid(e9824cb7051c4a44a8488163be9c5fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c7950c0023cb6891c20799669cc509') in 0.014198 seconds
+  Import took 0.016023 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000611 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.711 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.4 MB.
+System memory in use after: 75.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 1.597000 ms (FindLiveObjects: 0.237200 ms CreateObjectMapping: 0.029700 ms MarkObjects: 1.315500 ms  DeleteObjects: 0.013500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
